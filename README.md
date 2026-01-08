@@ -1,7 +1,5 @@
 # GAIA_agent
 
-# GAIA AI Agent – Hugging Face Space
-
 ## Overview
 This project implements a custom AI agent designed for the **GAIA benchmark**, deployed as a Hugging Face Space. The agent is built to handle real-world tasks that require structured reasoning, multi-step planning, tool usage, and precise answer formatting.
 
